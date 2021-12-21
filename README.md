@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Serhat Düzgün
+- 👀 I’m interested in UI/UX, Web Design and 3D Design
+- 💪 I want to improve myself on the front-end technologies
+- ❤️ I love to explore, learn and create something new constantly
+- 📫 How to reach me franchescomonarch@gmail.com
